@@ -1,6 +1,6 @@
 # SocialEvents 🌍
 
-**Live Site URL:** [Insert your deployed Vercel/Netlify URL here]
+**Live Site URL:** social-event-website-frontend.vercel.app
 
 ## About The Project
 SocialEvents is a full-stack social event management platform designed to connect communities. It empowers users to easily discover, create, and participate in local social service activities like cleanups, blood donations, and health camps. 

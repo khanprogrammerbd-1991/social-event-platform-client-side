@@ -1,3 +1,8 @@
+
+Frontend live link-social-event-website-frontend.vercel.app
+Backend-social-event-website-server.vercel.app
+
+
 <!-- BEGIN:nextjs-agent-rules -->
 
 ## This is NOT the Next.js you know
